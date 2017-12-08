@@ -1,4 +1,4 @@
-private static final int BUTTON_A = 1;
+	private static final int BUTTON_A = 1;
 	private static final int BUTTON_B = 2;
 	private static final int BUTTON_X = 3;
 	private static final int BUTTON_Y = 4;
@@ -8,5 +8,5 @@ private static final int BUTTON_A = 1;
 	private static final int RIGHT_BUMPER = 6;
 	private static final int LEFT_JOYSTICK = 1;
 	private static final int RIGHT_JOYSTICK = 5;
-  private static final int BOXES = 7;
+  	private static final int BOXES = 7;
 	private static final int LINES = 8;
